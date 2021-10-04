@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://adamklie.github.io/sitemap.xml
