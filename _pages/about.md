@@ -2,33 +2,48 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  <a href="https://postdoc.ucsd.edu/funding/schmidt-ai/index.html">Schmidt AI Postdoctoral Fellow</a> ·
+  <a href="https://ucsd.edu">UC San Diego</a> ·
+  <a href="mailto:aklie@ucsd.edu">aklie@ucsd.edu</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>La Jolla, CA</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: true
+selected_papers: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a computational biologist and machine learning researcher trying to understand one of the most fundamental puzzles in modern genomics: **how does genetic variation shape who we are and what diseases we get?**
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+We have identified hundreds of thousands of genetic variants linked to common diseases like heart disease, Alzheimer's, and diabetes — yet the biological mechanisms behind most of these links remain unknown. A large fraction of these variants live in the **non-coding genome**: regions that don't encode proteins but instead regulate when, where, and how much genes are expressed. My research uses machine learning to decode these regulatory signals, connecting genetic variation to biological function at scale.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I completed my PhD in the [Bioinformatics and Systems Biology (BISB) program](https://bioinformatics.ucsd.edu/) at UC San Diego in 2025, and am currently a [Schmidt AI Postdoctoral Fellow](https://postdoc.ucsd.edu/funding/schmidt-ai/index.html) continuing that work.
+
+---
+
+**But I'm more than my research.**
+
+Before I was a scientist, I was a basketball player — a student-athlete at UCSD, and then a professional player in the [NBA G-League](https://gleague.nba.com/) affiliate system, playing in Canada and Germany. That chapter of my life taught me as much about discipline, resilience, and teamwork as any class I've taken.
+
+I'm also a musician (guitar, mostly), an avid reader, a deeply curious person who tends to take on too many interesting problems at once, and someone who believes deeply that learning — real, slow, deep learning — is one of the most worthwhile things a person can do.
+
+I write about all of it [on my blog](/blog/).
+
+---
+
+## What I'm Building
+
+I'm currently working on translating the tools and methods developed during my PhD into real-world applications. If you're interested in collaborating or learning more, [reach out](mailto:aklie@ucsd.edu).
+
+---
+
+## Education
+
+- **PhD**, Bioinformatics and Systems Biology — UC San Diego, 2025
+- **B.S.**, Bioengineering: Bioinformatics — UC San Diego, 2017
