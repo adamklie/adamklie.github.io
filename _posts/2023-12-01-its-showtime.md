@@ -3,7 +3,7 @@ layout: post
 title: "2023: It's Showtime"
 date: 2023-12-01
 description: The year things started coming together — papers, talks, and the first real signs of a scientific identity.
-tags: [my-journey, grad-school, research, 2023]
+tags: [my-journey, grad-school, research, "2023"]
 categories: my-journey
 ---
 

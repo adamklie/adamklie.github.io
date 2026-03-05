@@ -3,7 +3,7 @@ layout: post
 title: "2020: Converting Learning to Research"
 date: 2020-12-01
 description: The transition from student to researcher. COVID, a new lab, and figuring out what questions are worth asking.
-tags: [my-journey, grad-school, research, 2020]
+tags: [my-journey, grad-school, research, "2020"]
 categories: my-journey
 ---
 

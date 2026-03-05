@@ -3,7 +3,7 @@ layout: post
 title: "2025: The Road Goes Ever On and On"
 date: 2025-01-01
 description: New beginnings. Postdoc, company, and the long road ahead.
-tags: [my-journey, postdoc, startup, 2025]
+tags: [my-journey, postdoc, startup, "2025"]
 categories: my-journey
 ---
 

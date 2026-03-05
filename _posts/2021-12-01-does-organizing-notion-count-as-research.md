@@ -3,7 +3,7 @@ layout: post
 title: "2021: Does Organizing My Notion Count as Research?"
 date: 2021-12-01
 description: Year three of the PhD. Getting deeper into the work, finding a rhythm, and asking whether productivity theater is real work.
-tags: [my-journey, grad-school, productivity, 2021]
+tags: [my-journey, grad-school, productivity, "2021"]
 categories: my-journey
 ---
 

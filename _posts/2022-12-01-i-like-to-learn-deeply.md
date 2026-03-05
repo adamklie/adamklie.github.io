@@ -3,7 +3,7 @@ layout: post
 title: "2022: I Like to Learn Deeply"
 date: 2022-12-01
 description: Conferences, Alaska, and the rediscovery of what makes science worth doing.
-tags: [my-journey, grad-school, learning, 2022]
+tags: [my-journey, grad-school, learning, "2022"]
 categories: my-journey
 ---
 
