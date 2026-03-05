@@ -14,9 +14,18 @@ profile:
   more_info: >
     <p>La Jolla, CA</p>
 
-news: true
 selected_papers: true
 social: true
+
+announcements:
+  enabled: true
+  scrollable: true
+  limit: 5
+
+latest_posts:
+  enabled: true
+  scrollable: true
+  limit: 3
 ---
 
 I'm a computational biologist and machine learning researcher trying to understand one of the most fundamental puzzles in modern genomics: **how does genetic variation shape who we are and what diseases we get?**
