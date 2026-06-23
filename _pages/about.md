@@ -3,9 +3,9 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href="https://postdoc.ucsd.edu/funding/schmidt-ai/index.html">Schmidt AI Postdoctoral Fellow</a> ·
-  <a href="https://ucsd.edu">UC San Diego</a> ·
-  <a href="mailto:aklie@ucsd.edu">aklie@ucsd.edu</a>
+  Co-Founder &amp; Head of Technology, <a href="https://gaius.bio">Gaius Therapeutics</a> ·
+  Computational biologist &amp; ML researcher ·
+  <a href="mailto:adam@gaius.bio">adam@gaius.bio</a>
 
 profile:
   align: right
@@ -28,29 +28,23 @@ latest_posts:
   limit: 3
 ---
 
-I'm a computational biologist and machine learning researcher trying to understand one of the most fundamental puzzles in modern genomics: **how does genetic variation shape who we are and what diseases we get?**
+I'm the **co-founder and Head of Technology of [Gaius Therapeutics](https://gaius.bio)**, an early-stage biotechnology company. After years of building computational and machine learning methods in academia, I'm now focused on turning that science into something real — leading the technology that the company is built on.
 
-We have identified hundreds of thousands of genetic variants linked to common diseases like heart disease, Alzheimer's, and diabetes — yet the biological mechanisms behind most of these links remain unknown. A large fraction of these variants live in the **non-coding genome**: regions that don't encode proteins but instead regulate when, where, and how much genes are expressed. My research uses machine learning to decode these regulatory signals, connecting genetic variation to biological function at scale.
+## The research behind the work
 
-I completed my PhD in the [Bioinformatics and Systems Biology (BISB) program](https://bioinformatics.ucsd.edu/) at UC San Diego in 2025, and am currently a [Schmidt AI Postdoctoral Fellow](https://postdoc.ucsd.edu/funding/schmidt-ai/index.html) continuing that work.
+I'm a computational biologist and machine learning researcher, and the thread running through everything I do is one of the most fundamental puzzles in modern genomics: **how does genetic variation shape who we are and what diseases we get?**
 
----
+We've identified hundreds of thousands of genetic variants linked to common diseases like heart disease, Alzheimer's, and diabetes — yet the biological mechanisms behind most of these links remain unknown. A large fraction of these variants live in the **non-coding genome**: regions that don't encode proteins but instead regulate when, where, and how much genes are expressed. My research uses machine learning to decode these regulatory signals, connecting genetic variation to biological function at scale.
 
-**But I'm more than my research.**
+I completed my PhD in the [Bioinformatics and Systems Biology (BISB) program](https://bioinformatics.ucsd.edu/) at UC San Diego in 2025 (in the [Carter Lab](https://hannahcarterlab.org/)), and continued as a [Schmidt AI Postdoctoral Fellow](https://postdoc.ucsd.edu/funding/schmidt-ai/index.html) before co-founding Gaius. Along the way I built [EUGENe](/software/), an open-source toolkit for deep learning in regulatory genomics. You can see my [publications](/publications/) and [software](/software/) for the full picture.
 
-Before I was a scientist, I was a basketball player — a student-athlete at UCSD, and then a professional player in the [NBA G-League](https://gleague.nba.com/) affiliate system, playing in Canada and Germany. That chapter of my life taught me as much about discipline, resilience, and teamwork as any class I've taken.
+## Get in touch
 
-I'm also a musician (guitar, mostly), an avid reader, a deeply curious person who tends to take on too many interesting problems at once, and someone who believes deeply that learning — real, slow, deep learning — is one of the most worthwhile things a person can do.
-
-I write about all of it [on my blog](/blog/).
+I'm always open to new conversations and collaborations — on science, building a company, or anything else. The best way to reach me is by email: **[adam@gaius.bio](mailto:adam@gaius.bio)** or **[adamklie13@gmail.com](mailto:adamklie13@gmail.com)**.
 
 ---
 
-## What I'm Building
-
-I'm currently working on translating the tools and methods developed during my PhD into real-world applications. If you're interested in collaborating or learning more, [reach out](mailto:aklie@ucsd.edu).
-
----
+Outside of work, I've lived a couple of other lives worth their own pages: a decade of competitive **[basketball](/basketball/)** — UC San Diego, professional ball in Canada and Germany, and coaching — and an ongoing life in **[music](/music/)**. I also [write](/blog/) about all of it.
 
 ## Education
 

@@ -7,14 +7,14 @@ first_name: Adam
 middle_name:
 last_name: Klie
 contact_note: >
-  The best way to reach me is by email.
+  The best way to reach me is by email — I'm always glad to hear from people about science, building, basketball, or music.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Schmidt AI Postdoctoral Fellow at UC San Diego. Bioinformatics, machine learning, and the non-coding genome. Former professional basketball player. Perpetual learner.
+  Co-Founder & Head of Technology at Gaius Therapeutics. Computational biologist and machine learning researcher (PhD, UC San Diego) decoding the non-coding genome. Former professional basketball player and lifelong musician.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: bioinformatics, genomics, machine learning, deep learning, non-coding genome, UCSD, postdoc # add your own keywords or leave empty
+keywords: Adam Klie, Gaius Therapeutics, biotech, founder, computational biology, bioinformatics, genomics, machine learning, deep learning, non-coding genome, gene regulation, genetic medicine # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧬 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 

@@ -3,11 +3,11 @@ layout: page
 title: music
 permalink: /music/
 nav: true
-nav_order: 6
-description: Guitar, band practice, and songs I'm working on.
+nav_order: 7
+description: Guitar, songwriting, and collaboration of all kinds — solo, in a band, and in the studio.
 ---
 
-I've played guitar since I was a kid. For a long time it was a private thing — playing by myself, learning covers, occasionally recording a rough demo into my phone. Recently that's been changing.
+I've played guitar for about a decade. For a long time it was a private thing — playing by myself, learning covers, occasionally recording a rough demo into my phone. These days it's mostly about **collaboration**: playing in a band, writing with other people, and producing recordings together. I work across a few modes that I'd rather keep coexisting than choose between — solo singer-songwriter, electric guitar-driven stuff, band collaboration, and studio production. Sound-wise I pull from John Mayer, The Black Keys, Leon Bridges, Arctic Monkeys, the White Stripes, and a lot of folk-narrative writers like Dylan and Jeff Buckley.
 
 ## Ozone Destructors
 
@@ -29,4 +29,6 @@ Because my music library had grown past what I could manage by hand, I built [Gr
 
 ---
 
-*If you want to hear anything, reach out — I'm still figuring out what's worth publishing.*
+## Let's collaborate
+
+The thing I care about most here is playing **with** other people. If you're a musician in San Diego looking for a guitarist, a co-writer, or someone to record with — or you just want to jam, swap songs, or hear what I'm working on — I'd love to hear from you. Reach me at [adamklie13@gmail.com](mailto:adamklie13@gmail.com).
