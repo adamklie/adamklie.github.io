@@ -7,7 +7,7 @@ first_name: Adam
 middle_name:
 last_name: Klie
 contact_note: >
-  The best way to reach me is by email — I'm always glad to hear from people about science, building, basketball, or music.
+  The best way to reach me is by email. I'm always glad to hear from people about science, building, basketball, or music.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Co-Founder & Head of Technology at Gaius Therapeutics. Computational biologist and machine learning researcher (PhD, UC San Diego) decoding the non-coding genome. Former professional basketball player and lifelong musician.
 footer_text: >
