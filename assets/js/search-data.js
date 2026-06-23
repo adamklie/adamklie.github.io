@@ -205,16 +205,7 @@ ninja.data = [{
             window.location.href = "/blog/2017/ucsd-undergrad/";
           
         },
-      },{id: "news-eugene-is-out-in-nature-computational-science-a-python-toolkit-for-deep-learning-analyses-of-regulatory-sequences",
-          title: 'EUGENe is out in Nature Computational Science — a Python toolkit for deep...',
-          description: "",
-          section: "News",},{id: "news-co-authored-paper-in-developmental-cell-showing-how-single-nucleotide-variants-within-heart-enhancers-can-disrupt-development-by-tuning-tf-binding-affinity",
-          title: 'Co-authored paper in Developmental Cell showing how single-nucleotide variants within heart enhancers can...',
-          description: "",
-          section: "News",},{id: "news-new-paper-out-in-nature-communications-on-pre-operative-stereotactic-radiosurgery-for-resectable-brain-metastases",
-          title: 'New paper out in Nature Communications on pre-operative stereotactic radiosurgery for resectable brain...',
-          description: "",
-          section: "News",},{id: "news-defended-my-phd-in-the-bioinformatics-and-systems-biology-program-at-ucsd",
+      },{id: "news-defended-my-phd-in-the-bioinformatics-and-systems-biology-program-at-ucsd",
           title: 'Defended my PhD in the Bioinformatics and Systems Biology program at UCSD. 🎓...',
           description: "",
           section: "News",},{id: "news-started-as-a-schmidt-ai-postdoctoral-fellow-at-uc-san-diego",
