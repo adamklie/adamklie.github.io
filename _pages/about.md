@@ -14,7 +14,7 @@ profile:
   more_info: >
     <p>La Jolla, CA</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
@@ -23,20 +23,16 @@ announcements:
   limit: 5
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 3
 ---
 
-I'm the **co-founder and Head of Technology of [Gaius Therapeutics](https://gaius.bio)**, an early-stage biotechnology company. After years of building computational and machine learning methods in academia, I'm now focused on turning that science into something real — leading the technology that the company is built on.
+I'm the **co-founder and Head of Technology of [Gaius Therapeutics](https://gaius.bio)**, an early-stage biotech company that uses a machine learning–guided "genetic switch" discovery platform to design _in vivo_ cell therapies precise enough to treat autoimmune disease.
 
-## The research behind the work
+I completed my PhD in the [Bioinformatics and Systems Biology (BISB) program](https://bioinformatics.ucsd.edu/) at UC San Diego in 2025 in [Professor Hannah Carter's Lab](https://hannahcarterlab.org/), and continued as a [Schmidt AI Postdoctoral Fellow](https://postdoc.ucsd.edu/funding/schmidt-ai/index.html) before co-founding Gaius.
 
-I'm a computational biologist and machine learning researcher, and the thread running through everything I do is one of the most fundamental puzzles in modern genomics: **how does genetic variation shape who we are and what diseases we get?**
-
-We've identified hundreds of thousands of genetic variants linked to common diseases like heart disease, Alzheimer's, and diabetes — yet the biological mechanisms behind most of these links remain unknown. A large fraction of these variants live in the **non-coding genome**: regions that don't encode proteins but instead regulate when, where, and how much genes are expressed. My research uses machine learning to decode these regulatory signals, connecting genetic variation to biological function at scale.
-
-I completed my PhD in the [Bioinformatics and Systems Biology (BISB) program](https://bioinformatics.ucsd.edu/) at UC San Diego in 2025 (in the [Carter Lab](https://hannahcarterlab.org/)), and continued as a [Schmidt AI Postdoctoral Fellow](https://postdoc.ucsd.edu/funding/schmidt-ai/index.html) before co-founding Gaius. Along the way I built [EUGENe](/software/), an open-source toolkit for deep learning in regulatory genomics. You can see my [publications](/publications/) and [software](/software/) for the full picture.
+My expertise sits at the intersection of **gene regulation**, **single-cell biology**, and **deep learning** — I build machine learning models that decode how the regulatory genome shapes cell biology. Along the way I created [EUGENe](/software/) and several open-source [tools](/software/), alongside my [publications](/publications/).
 
 ## Get in touch
 
