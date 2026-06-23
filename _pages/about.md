@@ -28,13 +28,13 @@ latest_posts:
   limit: 3
 ---
 
-I'm the **co-founder and Head of Technology of [Gaius Therapeutics](https://gaius.bio)**, an early-stage biotech company that uses a machine learning–guided "genetic switch" discovery platform to design _in vivo_ cell therapies precise enough to treat autoimmune disease.
+I'm the **co-founder and Head of Technology of [Gaius Therapeutics](https://gaius.bio)**, an early-stage biotech company that uses a machine-learning-guided "genetic switch" discovery platform to design _in vivo_ cell therapies precise enough to treat autoimmune disease.
 
 I completed my PhD in the [Bioinformatics and Systems Biology (BISB) program](https://bioinformatics.ucsd.edu/) at UC San Diego in 2025 in [Professor Hannah Carter's Lab](https://hannahcarterlab.org/), and continued as a [Schmidt AI Postdoctoral Fellow](https://postdoc.ucsd.edu/funding/schmidt-ai/index.html) before co-founding Gaius.
 
-My expertise sits at the intersection of **gene regulation**, **single-cell biology**, and **deep learning**. I build models of DNA sequence that decode how the regulatory genome works — and that can be programmed to design entirely new regulatory sequences. Along the way I created [EUGENe](/software/) and several open-source [tools](/software/), alongside my [publications](/publications/).
+My expertise sits at the intersection of **gene regulation**, **single-cell biology**, and **deep learning**. I build models of DNA sequence that decode how the regulatory genome works. These same models can be programmed to design entirely new regulatory sequences. Along the way I created [EUGENe](/software/) and several open-source [tools](/software/), alongside my [publications](/publications/).
 
-Outside of work, I've spent a decade in [basketball](/basketball/) — college, professional ball in Canada and Germany, and coaching — and I make [music](/music/). I [write](/blog/) about all of it.
+Outside of work, I've spent a decade in [basketball](/basketball/), playing in college and professionally in Canada and Germany, then coaching. I also make [music](/music/) and [write](/blog/) about all of it.
 
 <h2><a href="/news/" style="color: inherit">news</a></h2>
 
@@ -42,7 +42,7 @@ Outside of work, I've spent a decade in [basketball](/basketball/) — college, 
 
 ## Get in touch
 
-I'm always open to new conversations and collaborations — on science, building a company, basketball, or music. Feel free to drop me a note:
+I'm always open to new conversations and collaborations about science, building a company, basketball, or music. Feel free to drop me a note:
 
 <form id="contact-form" class="contact-form">
   <input type="hidden" name="access_key" value="40185b4a-3571-4989-84d5-3dfcea59ec4c" />
@@ -73,10 +73,10 @@ I'm always open to new conversations and collaborations — on science, building
       fetch("https://api.web3forms.com/submit", { method: "POST", body: new FormData(form) })
         .then(function (r) { return r.json().then(function (json) { return { ok: r.ok, json: json }; }); })
         .then(function (res) {
-          result.textContent = res.ok ? "Thanks — your message was sent!" : (res.json.message || "Something went wrong.");
+          result.textContent = res.ok ? "Thanks! Your message was sent." : (res.json.message || "Something went wrong.");
           if (res.ok) form.reset();
         })
-        .catch(function () { result.textContent = "Something went wrong — please email me directly."; });
+        .catch(function () { result.textContent = "Something went wrong. Please email me directly."; });
     });
   })();
 </script>
