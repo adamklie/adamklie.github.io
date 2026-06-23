@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "A summary of my academic, professional, and athletic career.",
+          description: "Co-Founder &amp; Head of Technology at Gaius Therapeutics; computational biologist and ML researcher (PhD, UC San Diego); former professional basketball player.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -37,9 +37,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
+        },{id: "nav-basketball",
+          title: "basketball",
+          description: "A decade in the game — UC San Diego, professional ball in Canada and Germany, and coaching.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/basketball/";
+          },
         },{id: "nav-music",
           title: "music",
-          description: "Guitar, band practice, and songs I&#39;m working on.",
+          description: "Guitar, songwriting, and collaboration of all kinds — solo, in a band, and in the studio.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/music/";
@@ -213,6 +220,9 @@ ninja.data = [{
           section: "News",},{id: "news-started-as-a-schmidt-ai-postdoctoral-fellow-at-uc-san-diego",
           title: 'Started as a Schmidt AI Postdoctoral Fellow at UC San Diego. 🎉',
           description: "",
+          section: "News",},{id: "news-co-founded-gaius-therapeutics-where-i-m-head-of-technology-taking-the-science-from-my-phd-and-postdoc-out-of-the-lab-and-into-a-company",
+          title: 'Co-founded Gaius Therapeutics, where I’m Head of Technology — taking the science from...',
+          description: "",
           section: "News",},{id: "projects-eugene",
           title: 'EUGENe',
           description: "Deep learning for regulatory genomics",
@@ -229,18 +239,11 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/tf_perturb_seq/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/cv.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%61%6B%6C%69%65@%75%63%73%64.%65%64%75", "_blank");
+          window.open("mailto:%61%64%61%6D@%67%61%69%75%73.%62%69%6F", "_blank");
         },
       },{
         id: 'social-rss',
