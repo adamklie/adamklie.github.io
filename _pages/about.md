@@ -18,7 +18,7 @@ selected_papers: false
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
@@ -32,13 +32,17 @@ I'm the **co-founder and Head of Technology of [Gaius Therapeutics](https://gaiu
 
 I completed my PhD in the [Bioinformatics and Systems Biology (BISB) program](https://bioinformatics.ucsd.edu/) at UC San Diego in 2025 in [Professor Hannah Carter's Lab](https://hannahcarterlab.org/), and continued as a [Schmidt AI Postdoctoral Fellow](https://postdoc.ucsd.edu/funding/schmidt-ai/index.html) before co-founding Gaius.
 
-My expertise sits at the intersection of **gene regulation**, **single-cell biology**, and **deep learning** — I build machine learning models that decode how the regulatory genome shapes cell biology. Along the way I created [EUGENe](/software/) and several open-source [tools](/software/), alongside my [publications](/publications/).
+My expertise sits at the intersection of **gene regulation**, **single-cell biology**, and **deep learning**. I build models of DNA sequence that decode how the regulatory genome works — and that can be programmed to design entirely new regulatory sequences. Along the way I created [EUGENe](/software/) and several open-source [tools](/software/), alongside my [publications](/publications/).
 
-Outside of work, I've lived a couple of other lives worth their own pages: a decade of competitive **[basketball](/basketball/)** — UC San Diego, professional ball in Canada and Germany, and coaching — and an ongoing life in **[music](/music/)**. I also [write](/blog/) about all of it.
+Outside of work, I've spent a decade in [basketball](/basketball/) — college, professional ball in Canada and Germany, and coaching — and I make [music](/music/). I [write](/blog/) about all of it.
+
+<h2><a href="/news/" style="color: inherit">news</a></h2>
+
+{% include news.liquid limit=true %}
 
 ## Get in touch
 
-I'm always open to new conversations and collaborations — on science, building a company, basketball, or music. Drop me a note and it'll land straight in my inbox:
+I'm always open to new conversations and collaborations — on science, building a company, basketball, or music. Feel free to drop me a note:
 
 <form id="contact-form" class="contact-form">
   <input type="hidden" name="access_key" value="40185b4a-3571-4989-84d5-3dfcea59ec4c" />
